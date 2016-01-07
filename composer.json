@@ -1,7 +1,7 @@
   GNU nano 2.2.6                                                                 File: composer.json                                                                                                                                         
 
 {
-    "name": "drupal/selfscan",
+    "name": "/drupal/selfscan",
     "description": "This is an example composer.json for selfscan.",
     "type": "drupal-module",
     "license": "GPL-2.0+"
