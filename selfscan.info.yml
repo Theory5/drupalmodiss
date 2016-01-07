@@ -1,0 +1,11 @@
+name: selfscan
+description: Pegasystems IT Security self scan module for developers and IT staff
+package: Custom
+
+type: module
+core: 8.x
+
+
+configure: selfscan.settings
+
+
