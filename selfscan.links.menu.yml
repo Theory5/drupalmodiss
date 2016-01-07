@@ -1,0 +1,6 @@
+selfscan.admin:
+        title: 'Self Scan Module Settings'
+        description: 'self scan admin settings page link thing'
+        parent: system.admin_config_development
+        route_name: selfscan.content
+        weight: 100
