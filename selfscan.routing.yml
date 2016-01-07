@@ -1,7 +1,7 @@
 selfscan.content:
 path: '/selfscan'
 defaults:
-_controller: 'Drupal\selfscan\Controller\HelloController::content'
+_controller: 'Drupal\selfscan\Controller\selfscan::content'
 _title: 'SelfScan'
 requirements:
 _permission: 'access content'
